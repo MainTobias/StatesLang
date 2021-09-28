@@ -1,0 +1,1 @@
+enum ReturnCode { SUCCESS, FAILURE }
