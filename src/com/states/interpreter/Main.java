@@ -9,7 +9,7 @@ public class Main {
                 1 => 1
                 )
                                 
-                state 1 = false (
+                state 1 = true (
                 0 => 2
                 1 => 0
                 )
