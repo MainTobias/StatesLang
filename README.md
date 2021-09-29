@@ -12,7 +12,7 @@ git clone https://github.com/MainTobias/states_lang_parser
 cd states_lang_parser
 dart run bin/main.dart
 ````
-##Compiling
+## Compiling
 ````
 dart compile exe bin/main.dart
 ````
