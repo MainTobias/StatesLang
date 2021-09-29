@@ -1,7 +1,7 @@
 ## Install dart sdk
 
 [Download dart]: https://dart.dev/get-dart
-or even better [flutter]:https://flutter.dev/docs/get-started/install
+or even better install [Flutter]: https://flutter.dev/docs/get-started/install
 We assume you are using Windows.
 But this should work on every operating system.
 
